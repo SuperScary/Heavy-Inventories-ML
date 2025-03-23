@@ -1,0 +1,10 @@
+net/superscary/himl/model/MLModel.class
+net/superscary/himl/parser/RecipeParser.class
+net/superscary/himl/model/MLModelFactory.class
+net/superscary/himl/model/Model.class
+net/superscary/himl/model/AdamModel.class
+net/superscary/himl/Main.class
+net/superscary/himl/model/GradientDescentModel.class
+net/superscary/himl/model/ItemWeightModel.class
+net/superscary/himl/parser/RecipeParser$Recipe.class
+net/superscary/himl/trainer/Trainer.class

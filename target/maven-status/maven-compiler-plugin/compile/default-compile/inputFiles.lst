@@ -1,0 +1,9 @@
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/parser/RecipeParser.java
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/model/MLModel.java
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/model/MLModelFactory.java
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/Main.java
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/model/ItemWeightModel.java
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/model/GradientDescentModel.java
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/model/AdamModel.java
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/model/Model.java
+/Users/wylan/Documents/GitHub/Heavy-Inventories-ML/src/main/java/net/superscary/himl/trainer/Trainer.java
